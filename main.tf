@@ -1,6 +1,6 @@
 tags = {
 
-  Name        = "web-server"
+  region = "eu-east-1"
 
   Environment = "dev"
 
